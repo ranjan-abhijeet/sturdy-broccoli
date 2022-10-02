@@ -1,0 +1,6 @@
+2022-10-02 15:54:11,429 - __main__ - INFO - Testing new log
+2022-10-02 15:54:11,429 - __main__ - ERROR - ZeroDivisionError
+Traceback (most recent call last):
+  File "02custom_logging.py", line 23, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
